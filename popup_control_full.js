@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://dangkychukysoviettel.com/' target='_blank'><img src='http://dangkychukysoviettel.com/wp-content/uploads/2016/05/cropped-gia-han-chu-ky-so-ca-1210x400.jpg' width='500px'/>ĐĂNG KÝ CHỮ KÝ SỐ VIETTEL</a>. CHỮ KÝ SỐ VIETTEL GIÁ RẺ <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://chukyso.online/' target='_blank'><img src='https://photos.google.com/search/_tra_/photo/AF1QipOc87zfWhgb_7vPEh0ZJn95zmb77tobmwZ0AQGw' width='500px'/>ĐĂNG KÝ CHỮ KÝ SỐ VIETTEL</a>. CHỮ KÝ SỐ VIETTEL GIÁ RẺ <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });

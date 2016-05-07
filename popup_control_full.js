@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://chukyso.online/' target='_blank'><img src='https://photos.google.com/search/_tra_/photo/AF1QipOc87zfWhgb_7vPEh0ZJn95zmb77tobmwZ0AQGw' width='500px'/>ĐĂNG KÝ CHỮ KÝ SỐ VIETTEL</a>. CHỮ KÝ SỐ VIETTEL GIÁ RẺ <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://chukyso.online/' target='_blank'><img src='https://lh3.googleusercontent.com/O6EraCS8coigkDFdoyiTwMfyeDIQWS6FIWMVTtHeTTUCV4SIC2HoybVgBDissmNYSlHBVtkOTNkygDly25lx4Zt2Zv6gi54DKnTX4Y2prDiBCZwL8hFWXv5JEO18ct2vRuYRRGkIVoeKIRE8amDdZ5PwDEF3c8qsnKyZJbj5dJwTxd5dpeKL9Z8KGXLW_oTrP20qCcuODvKkBgX1Lnm9Zyzsp385U7ofh3rN59mgAMviw-iHGQlY-g1UsbgMEE-4SaNMMHDaLwGK5VrEtvXuNn2XBu0S5ntMaMQu7cXDSWPhfxLmLnrpeeEp5BCHrq4DqIfo8S4mqgwky8emd9hPcJeo37178ZXg8ZVAHmtKRBDEUnutKx1kS8qvykxDvwRx09qnVbbcyOhm3-h5xaycXhY--Nv4uVa-bYOQyA7k8lNOcGwHpENowBmjBc99lT6sVSrFSrKH01035kTihBl-5cF-QRygFUP2AQnjHevD-PwQAp087TOalFX2v-8DpPxcPxVn3OuYFdRYYGiJBoJZAq_Qbk496YLFdWy_izo1cQ3cBbvs3qlab4zHYve4tT6BmTB3JE_205RTVEfNzltqZkN-edKjlA=w1210-h400-no' width='500px'/>ĐĂNG KÝ CHỮ KÝ SỐ VIETTEL</a>. CHỮ KÝ SỐ VIETTEL GIÁ RẺ <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
